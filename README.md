@@ -68,7 +68,7 @@ Las operaciones disponibles son:
 - 🔢 Multiplicación de matrices
 
 <p align="center">
-  <img src="imagenes/operaciones.png" width="760" alt="Selección de operaciones con matrices">
+  <img src="imagenes/Operaciones.png" width="760" alt="Selección de operaciones con matrices">
 </p>
 
 ---
@@ -78,7 +78,7 @@ Las operaciones disponibles son:
 Para las operaciones que necesitan dos matrices, la aplicación solicita los elementos de la segunda matriz.
 
 <p align="center">
-  <img src="imagenes/segunda-matriz.png" width="650" alt="Ingreso de la segunda matriz">
+  <img src="imagenes/segunda matriz.png" width="650" alt="Ingreso de la segunda matriz">
 </p>
 
 ---
