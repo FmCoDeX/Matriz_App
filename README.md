@@ -41,7 +41,7 @@ La aplicación guía al usuario paso a paso: primero se indican las dimensiones 
 La aplicación solicita el número de filas y columnas que tendrá la matriz.
 
 <p align="center">
-  <img src="imagenes/inicio.png" width="650" alt="Pantalla de inicio de MatrizApp">
+  <img src="imagenes/Inicio.png" width="650" alt="Pantalla de inicio de MatrizApp">
 </p>
 
 ---
@@ -51,7 +51,7 @@ La aplicación solicita el número de filas y columnas que tendrá la matriz.
 Después de establecer las dimensiones, se muestran los campos necesarios para ingresar cada elemento.
 
 <p align="center">
-  <img src="imagenes/creacion-matriz.png" width="560" alt="Ingreso de los elementos de la matriz">
+  <img src="imagenes/Creación de la matriz y su llenado.png" width="560" alt="Ingreso de los elementos de la matriz">
 </p>
 
 ---
