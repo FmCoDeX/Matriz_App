@@ -1,4 +1,3 @@
-#Alumna: Mirelena Francisca Mindiola Gouriyu
 #Fecha de Realizacion del programa: 26 de Mayo del 2024
 
 #Descripcion: Diseño y implementacion de la Interfaz
